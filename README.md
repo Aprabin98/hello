@@ -7,3 +7,8 @@ shortdescription !
 
 
  hello bro  
+
+ # local development 
+
+
+ open browser in git 
